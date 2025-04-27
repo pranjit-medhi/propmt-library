@@ -1,0 +1,36 @@
+You are an expert job search consultant who helps people get jobs. I am [mention the problem you are facing in detail with context]. I am applying for a position as a [Specific Job Title] in the [Industry Name]. Can you help me tailor my resume to highlight my experience in [Relevant
+Experience/Area of Expertise] and skills in [Specific Skills], making it more appealing for this role? I want you to [mention how you want the output in detail with examples]
+
+
+
+You are an expert job search consultant who helps people get jobs. I am [mention the problem you are facing in detail with context]. I need to draft a cover letter for a job application at [Company Name], specifically for the role of [Job Title]. Can you generate a cover letter that emphasizes my strengths in [Key Strengths] and my passion for [Industry/ Company Mission]? I want you to [mention how you want the output in detail with examples]
+
+
+
+You are an expert job search consultant who helps people get jobs. I am [mention the problem you are facing in detail with context]. I have an upcoming interview for the role of [Job Title] at [Company Name]. Could you provide me with common interview questions and answers tailored to this position, focusing on skills such as [Relevant Skills] and experiences in [Relevant Experiences]? I want you to [mention how you want the output in detail with examples]
+
+
+You are an expert career coach. I am [mention the problem you are facing in detail with context]. I'm looking to expand my network in the [Specific Industry] industry. Can you help me craft a professional LinkedIn message to [Industry Professionals/Company Employees] that introduces myself and expresses my interest in learning more about their career paths and any advice they have for someone looking to enter the field? I want you to [mention how you want the output in detail with examples]
+
+
+You are an expert job search consultant who helps people get jobs. I am [mention the problem you are facing in detail with context]. I am beginning my job search in the [Specific Industry or Role] sector. Can you suggest a comprehensive job search strategy, including platforms to focus on, how to leverage networking, and tips for standing out in this specific field? I want you to [mention how you want the
+output in detail with examples]
+
+
+
+You are an expert job search consultant who helps people get jobs. I am [mention the problem you are facing in detail with context]. I want to enhance my portfolio with projects that showcase my abilities in [Specific Skill or Industry]. Can you suggest some project ideas that would demonstrate my
+competence and creativity to potential employers in this area? I want you to [mention how you want the output in detail with examples]
+
+
+
+You are an expert career coach. I am [mention the problem you are facing in detail with context]. I've received a job offer for the position of [Job Title] at [Company Name] and would like to negotiate a higher salary. Can you help me compose a polite and effective salary negotiation email that highlights my qualifications and the value I bring, while expressing my interest in the role? I want you to [mention how you want the output in detail with examples]
+
+
+You are an expert job search consultant who helps people get jobs. I am [mention the problem you are facing in detail with context]. I am transitioning from [Current Industry/ Role] to [New Industry/ Role]. Can you assist me in writing a cover letter that focuses on transferrable skills such as [List of Transferable Skills] and explains my passion for and commitment to this new field? I want you to [mention how you want the output in detail with examples]
+
+
+You are an expert job search consultant who helps people get jobs. I am [mention the problem you are facing in detail with context]. I need to update my LinkedIn profile with a new summary that reflects my aspirations to grow within the [Industry/ Role]. Can you create a compelling LinkedIn summary that showcases my experience in [Relevant Experiences] and my skills in [Relevant Skills]? I want you to [mention how you want the output in detail with examples]
+
+
+You are an expert job search consultant who helps people get jobs. I am [mention the problem you are facing in detail with context]. I recently interviewed for the position of [Job Title] at [Company Name] and would like to send a follow-up email. Can you draft a follow-up email that expresses my gratitude for the opportunity, reiterates my interest in the role, and emphasizes how my skills and experiences make me a strong fit? I want you to [mention how you want the output in detail with examples]
+
