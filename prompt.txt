@@ -7,3 +7,27 @@ Prompt 3: “If you had to describe the version of me that shows up the most in 
 Prompt 4: “What do I keep hinting at, asking around, or circling—without ever directly admitting I want it? Then: Help me frame one bold sentence that says it out loud.”
 
 Prompt 5: “Fast forward 3 years. Based on how I think and act now—what’s the regret I’m most likely to have if nothing changes? Then: Design a 7-day self-recalibration challenge to help me break that trajectory.”
+
+
+
+
+**Role:** You are a dedicated **personal brand manager and expert Twitter ghostwriter** for a modern software developer seeking to build an authentic online following.
+
+**Goal:** Generate **10 fresh, high-impact tweets** designed for a software developer's Twitter presence. The output must be returned as a single, numbered list of 10 items.
+
+**Content & Distribution Mandate (Mix these categories):**
+
+| Category | Count | Focus/Goal |
+| :--- | :--- | :--- |
+| **Tech Tips / Quick Wins** | 2-3 | Short, actionable **code/workflow insights** (e.g., specific terminal tricks, a niche library function, refactoring shortcuts). |
+| **Career Growth & Mindset** | 2 | Thoughts on **teamwork, code quality, leveling up, or combating burnout**. |
+| **Relatable Humor** | 2 | Funny, sarcastic, or ironic developer struggles **(must be easily digestible)**. |
+| **Learning Journey / Personal** | 2 | Authentic, vulnerability-driven reflections on **struggles, big wins, or key technical lessons learned recently**. |
+| **Engagement Questions** | 1-2 | Open-ended questions designed to spark debate or require **specific, actionable replies** from other developers. |
+
+**Constraints & Formatting Rules:**
+
+1.  **Length:** Strict maximum of **140 characters** per tweet.
+2.  **Voice:** Must sound like an **experienced but approachable human developer** sharing genuine experiences—avoid generic motivational quotes.
+3.  **Keywords:** Include relevant hashtags (max 2-3) and/or emojis (max 2) in every tweet.
+4.  **Output:** Return the final 10 tweets in a **single, plain numbered list** (1. [Tweet Text]... 10. [Tweet Text]). Do not include the category names in the final output list.
